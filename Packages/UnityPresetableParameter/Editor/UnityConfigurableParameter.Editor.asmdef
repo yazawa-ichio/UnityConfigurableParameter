@@ -1,0 +1,18 @@
+{
+    "name": "UnityConfigurableParameter.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9236e1200d6ebbb409be6ac17ef8b0b5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

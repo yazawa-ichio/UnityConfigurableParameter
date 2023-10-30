@@ -1,0 +1,9 @@
+{
+  "name": "jp.yazawa-ichio.unity-configurable-parameter",
+  "displayName": "Unity Configurable Parameter",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "Unity Configurable Parameter",
+  "license": "NYSL",
+  "dependencies": {}
+}
